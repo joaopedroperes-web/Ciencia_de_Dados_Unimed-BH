@@ -1,5 +1,11 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Ciencia de Dados Unimed BH
+
+<img src="https://hermes.digitalinnovation.one/tracks/342f7392-a8b5-421f-bea9-d29f1fd8aae9.png" alt="" width="200"/>
+
+Esse é um bootcamp criado pela Unimed-BH focada na formação Ciência de Dados
+
+Nesta prática realizada em conjunto com o instrutor [Cassiano-Peres](https://www.linkedin.com/in/peres-cassiano/), foi estudado uma função presente no serviço da Amazon AWS chamdo DynamoDB, sendo ele um banco de dados não relacional. 
+
 
 ### Serviço utilizado
   - Amazon DynamoDB
@@ -121,3 +127,6 @@ aws dynamodb query \
     --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
     --expression-attribute-values  '{":v_song":{"S":"Wasting Love"},":v_year":{"S":"1992"} }'
 ```
+
+## Link dio:
+[Dio](https://web.dio.me/home)
