@@ -6,7 +6,7 @@ Esse é um bootcamp criado pela Unimed-BH focada na formação Ciência de Dados
 
 Este é o desafio de criação do banco de dados E-commerce feito em um desafio anterior.
 
-Nele foi usado a ferramenta MySQL para a criação do banco. Após o aperfeiçoamento do projeto conceitual desenvolvido no desafio do mesmo, foi iniciado a construção do banco de dados a partir da tabela de endereço e assim por diante, após a criação do banco e correção dos erros de criação, foi feito algumas queries SQL de consulta afim de testar se havia algum probleme e porque era solicitado no desafio.
+Neste desafio foi usado a ferramenta MySQL para a criação do banco. Após o aperfeiçoamento do projeto conceitual desenvolvido no desafio do mesmo, foi iniciado a construção do banco de dados a partir da tabela de endereço e assim por diante, após a criação do banco e correção dos erros de criação, foi feito algumas queries SQL de consulta afim de testar se havia algum problema e porque era solicitado no desafio.
 
 ## Link dio:
 [Dio](https://web.dio.me/home)
